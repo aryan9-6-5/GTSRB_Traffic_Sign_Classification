@@ -32,14 +32,9 @@ pip install -r requirements.txt
 
 Set your Gemini API key from Google AI Studio:
 
-**Windows PowerShell:**
-```powershell
-$env:GEMINI_API_KEY="YOUR_KEY_HERE"
-```
-
-**Windows CMD:**
+**.env file:**
 ```cmd
-set GEMINI_API_KEY=YOUR_KEY_HERE
+GEMINI_API_KEY=YOUR_KEY_HERE
 ```
 
 ---
