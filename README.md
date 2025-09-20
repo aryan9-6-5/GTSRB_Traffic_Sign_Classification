@@ -75,4 +75,9 @@ your_project/
 ├── app.py        # Streamlit app
 ├── model.h5      # Trained traffic sign recognition model
 └── README.md     # This file
+├── labels.csv        # image labels csv
+├── test.py      # for basic testing of the model
+├── .env      # environment variables
+└── Traffic_Sign_Recognition.ipynb     # used for model creation
+
 ```
